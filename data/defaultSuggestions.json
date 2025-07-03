@@ -1,0 +1,6 @@
+[
+  { "command": "cursorUp", "vim": "k", "hint": "Use 'k' to move up" },
+  { "command": "cursorDown", "vim": "j", "hint": "Use 'j' to move down" },
+  { "command": "cursorLeft", "vim": "h", "hint": "Use 'h' to move left" },
+  { "command": "cursorRight", "vim": "l", "hint": "Use 'l' to move right" }
+] 
